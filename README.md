@@ -37,7 +37,7 @@ git branch
 
 查看本地和远程所有分支
 
-git branch -all
+git branch --all
 
 更新分支
 
