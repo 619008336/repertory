@@ -72,3 +72,4 @@ git branch -u origin/分支名 或 git branch --set-upstream-to origin/分支名
 撤销映射
 
 git branch --unset-upstream
+测试pull
